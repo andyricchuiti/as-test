@@ -17,7 +17,7 @@ npm init @open-wc
 
 ## Scripts
 
-- `start` runs your app for development
+- `start` runs your app for development. http://localhost:5000
 - `build` builds your app and outputs it in your `dist` directory
 - `test` runs your test suite with Karma
 - `lint` runs the linter for your project
