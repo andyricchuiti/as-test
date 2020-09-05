@@ -5,8 +5,9 @@ export const style = css`
     align-items: center;
     display: flex;
     flex-direction: column;
-    justify-items: center;
+    justify-content: center;
     height: 100vh;
+    text-align: center;
     width: 100vw;
   }
 `;
